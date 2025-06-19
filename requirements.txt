@@ -3,4 +3,4 @@ pandas
 flask
 scikit-learn
 
-logging
+logginggit push origin main
